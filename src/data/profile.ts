@@ -28,5 +28,5 @@ export const profileData: Profile = {
   email: "aadityamishra0107@gmail.com",
   github: "https://github.com/AdityaM0910 ",
   linkedin: "https://linkedin.com/in/adityam0910 ",
-  resumeUrl: "//resume.pdf" // Placeholder path for resume
+  resumeUrl: "/resume.pdf"
 };
